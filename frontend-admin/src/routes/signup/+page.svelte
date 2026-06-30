@@ -78,7 +78,7 @@
       </div>
     </div>
 
-    <p class="text-violet-300 text-xs">© 2024 Byepo Technologies</p>
+    <p class="text-violet-300 text-xs">© 2026 Byepo Technologies</p>
   </div>
 
   <!-- Right form panel -->
